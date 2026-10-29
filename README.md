@@ -83,10 +83,8 @@ DNS: 8.8.8.8
 ![](kali-linux-destro-virtualbox.png)
 
 
-## 3. Deploy the Environment
 
-
-### . Documentation
+### Documentation
 
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
 
